@@ -6,7 +6,3 @@ WHERE primary_flag='Y' OR
     FROM Employee
     Group by employee_id
     having count(employee_id)=1)
-
-
-
---Rakshit Gupta
