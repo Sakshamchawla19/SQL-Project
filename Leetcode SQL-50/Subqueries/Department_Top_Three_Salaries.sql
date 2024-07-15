@@ -19,6 +19,3 @@ WHERE
     rate <= 3;
 
 
-
-
---Rakshit Gupta
