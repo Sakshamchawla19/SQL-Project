@@ -26,5 +26,3 @@ SELECT title
 FROM TheBestMovieFebruary
 
 
-
---Rakshit Gupta
